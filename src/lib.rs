@@ -1,4 +1,6 @@
 mod utils;
+mod canvas;
+mod hello_triangle;
 
 use wasm_bindgen::prelude::*;
 
